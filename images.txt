@@ -1,2 +1,3 @@
-Infiniflow/ragflow：V0.16.0
-Infiniflow/Infinity：V0.6.0-DEV3
+alpine
+kasmweb/nginx:1.25.3
+python:alpine3.19
