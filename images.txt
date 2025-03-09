@@ -1,6 +1,10 @@
-nginx
-#支持私库
-k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
-xhofe/alist:latest
-#支持指定架构
---platform=linux/arm64 xiaoyaliu/alist
+＃支持私库
+Infiniflow/ragflow：V0.16.0
+
+Infiniflow/Infinity：V0.6.0-DEV3
+Elasticsearch：8.11.3
+mysql：8.0.39
+Postgres：13
+REDIS：6
+Valkey/Valkey：8
+Minio/minio
