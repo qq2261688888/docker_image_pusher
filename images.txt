@@ -1,17 +1,2 @@
 Infiniflow/ragflow：V0.16.0
-
 Infiniflow/Infinity：V0.6.0-DEV3
-
- 
-
-Elasticsearch：8.11.3
-
-mysql：8.0.39
-
-Postgres：13
-
-REDIS：6
-
-Valkey/Valkey：8
-
-Minio/minio
